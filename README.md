@@ -1,7 +1,7 @@
 # Star Wars
 Drupal 8 implementation of Star Wars for Star Wars Org
 
-[![CircleCI](https://circleci.com/gh/drevops/star_wars.svg?style=svg)](https://circleci.com/gh/drevops/star_wars)
+[![CircleCI](https://circleci.com/gh/drevops/star_wars.svg?style=shield)](https://circleci.com/gh/drevops/star_wars)
 ![Drupal 8](https://img.shields.io/badge/Drupal-8-blue.svg)
 
 
